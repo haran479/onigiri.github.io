@@ -12,7 +12,7 @@ function setup() {
 function draw (){ 
   if (mouseIsPressed) {
     
-  image (hand, mouseX, mouseY, 10, 10);
+  image (hand, mouseX, mouseY, 200, 200);
 }
 }
 
