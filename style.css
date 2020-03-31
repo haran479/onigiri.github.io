@@ -1,0 +1,18 @@
+body {
+margin-left: 200px;
+padding: 20;
+background-color: #E20000;
+}
+
+h1 {
+font-family: germania-one, 
+serif;
+font-weight: 400;
+font-style: normal;
+color: #F8DD9A;
+
+
+}
+canvas {
+  display: block;
+}
